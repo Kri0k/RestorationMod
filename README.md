@@ -10,6 +10,8 @@ This mod was made using MCreator
 
 **[CurseForge page]()**
 
+**[If you have issues with mod, you want to report a bug or you want to suggest something click here](https://github.com/Kri0k/RestorationMod/issues)**
+
 ```
 ```
 This mod adds for now two rusty tools: Meat Axe and Schiavonesca sword, which you can restore.
