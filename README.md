@@ -1,15 +1,6 @@
 # RestorationMod
 ## _Restore the old goodies_
 
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
 
 This is a GitHub page of Restoration mod on minecraft 1.16.5.
 With  restioration mod you can find rusty tools, which you can restore and customize.
