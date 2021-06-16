@@ -6,9 +6,9 @@ This is a GitHub page of Restoration mod on minecraft 1.16.5.
 With  restioration mod you can find rusty tools, which you can restore and customize.
 This mod was made using MCreator
 
-**[Mod download link]()**
+**[Mod download link](https://www.curseforge.com/minecraft/mc-mods/restoration-mod)**
 
-**[CurseForge page]()**
+**[CurseForge page](https://www.curseforge.com/minecraft/mc-mods/restoration-mod)**
 
 **[If you have issues with mod, you want to report a bug or you want to suggest something click here](https://github.com/Kri0k/RestorationMod/issues)**
 
