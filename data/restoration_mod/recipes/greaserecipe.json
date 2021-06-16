@@ -1,0 +1,19 @@
+{
+  "group": "restoration_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "minecraft:jungle_sapling"
+    }
+  ],
+  "result": {
+    "item": "restoration_mod:grease",
+    "count": 1
+  }
+}

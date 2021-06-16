@@ -1,0 +1,25 @@
+{
+  "group": "restoration_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "restoration_mod:schiavonesca_blade"
+    },
+    {
+      "item": "restoration_mod:emerald_schiavonesca_guard_clean"
+    },
+    {
+      "item": "restoration_mod:spruce_schiavonesca_handle"
+    },
+    {
+      "item": "restoration_mod:screwdriver"
+    },
+    {
+      "item": "restoration_mod:bolt"
+    }
+  ],
+  "result": {
+    "item": "restoration_mod:schiavonesca_emerald_spruce",
+    "count": 1
+  }
+}

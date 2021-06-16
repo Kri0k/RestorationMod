@@ -1,0 +1,22 @@
+{
+  "group": "restoration_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "restoration_mod:screwdriver"
+    },
+    {
+      "item": "restoration_mod:cleanemeraldmeataxehandle"
+    },
+    {
+      "item": "restoration_mod:clean_meat_axe"
+    },
+    {
+      "item": "restoration_mod:bolt"
+    }
+  ],
+  "result": {
+    "item": "restoration_mod:meataxeemerald",
+    "count": 1
+  }
+}

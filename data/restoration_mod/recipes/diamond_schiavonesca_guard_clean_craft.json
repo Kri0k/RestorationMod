@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "restoration_mod:diamond_schiavonesca_guard"
+  },
+  "addition": {
+    "item": "restoration_mod:sandpaper"
+  },
+  "result": {
+    "item": "restoration_mod:diamond_schiavonesca_guard_clean"
+  }
+}

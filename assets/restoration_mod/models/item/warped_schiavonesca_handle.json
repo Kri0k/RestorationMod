@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "restoration_mod:items/waped_schiavonesca_handle"
+  }
+}

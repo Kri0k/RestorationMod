@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "restoration_mod:schiavonesca_patina"
+  },
+  "addition": {
+    "item": "restoration_mod:sandpaper"
+  },
+  "result": {
+    "item": "restoration_mod:schiavonesca_blade"
+  }
+}

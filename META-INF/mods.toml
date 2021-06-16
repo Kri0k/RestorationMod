@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="restoration_mod"
+version="1.0.0"
+displayName="Restoration mod"
+credits="Kriok- creator, Yhe- tester."
+displayURL="https://mcreator.net"
+authors="Kriok"
+description='''
+Mod
+'''
+
+[[dependencies.restoration_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
